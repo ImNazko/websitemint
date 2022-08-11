@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcCbFdaB4C7FC26D429f3921786fBc1Fc71999cea",
+  "SCAN_LINK": "https://polygonscan.com/token/0xccbfdab4c7fc26d429f3921786fbc1fc71999cea",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Animalia",
+  "SYMBOL": "Animalia NFT",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST": 150.0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/animaliasocietynft",
+  "SHOW_BACKGROUND": true
+}
